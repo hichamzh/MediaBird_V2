@@ -1,0 +1,14 @@
+{
+  "name": "media_bird_website",
+  "version": "1.0.0",
+  "description": "Website for Media bird by Hicham Zouit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-slick": "^0.29.0"
+  }
+}
